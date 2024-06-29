@@ -1,0 +1,15 @@
+{
+    "smtp": {
+        "host": "mail.server.ru",
+        "port": "25",
+        "user": "sender",
+        "password": "12345"
+    },    
+    "default_folder": "",
+    "use_ssl": "no",
+    "save_log": "yes",
+    "use_subfolders": "no",
+    "check_mail": "yes",
+    "mail_separator": "; |;|, |,",
+    "duplicate_to_sender": "no"
+}
